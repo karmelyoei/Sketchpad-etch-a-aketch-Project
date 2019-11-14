@@ -6,7 +6,7 @@ body{
 
  /*design the container */
  #container{
-    margin: 350px 150px 0px 130px;
+    margin: 200px 150px 0px 130px;
     width:250px;
     padding: 200px;
     border: 2px solid #333;
@@ -32,9 +32,8 @@ body{
                 -3px -3px 12px #dba745;
         transition: background-color 0.9s ease-in;
         position: relative;
-        top: 5%;
         left: 35%;
-        margin: -370px 190px -20px -130px;
+        margin: -350px -500px -75px -100px;
     }	
 
     /*at Button hover */
